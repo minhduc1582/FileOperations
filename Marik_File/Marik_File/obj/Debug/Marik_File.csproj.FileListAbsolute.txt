@@ -1,0 +1,8 @@
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\bin\Debug\Marik_File.exe.config
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\bin\Debug\Marik_File.exe
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\bin\Debug\Marik_File.pdb
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\obj\Debug\Marik_File.csproj.AssemblyReference.cache
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\obj\Debug\Marik_File.csproj.SuggestedBindingRedirects.cache
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\obj\Debug\Marik_File.csproj.CoreCompileInputs.cache
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\obj\Debug\Marik_File.exe
+C:\My Folder\Thi\FileOperations\Marik_File\Marik_File\obj\Debug\Marik_File.pdb
